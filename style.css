@@ -6,9 +6,10 @@
 }
 
 .container {
+    width: auto;
     box-sizing: border-box;
     border: 1px solid gainsboro;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .divn1 {
